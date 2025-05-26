@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @FlightSchool-io
+/src/backend/database.py      @FlightSchool-io
+/src/backend/routers/auth.py  @FlightSchool-io
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @FlightSchool-io
